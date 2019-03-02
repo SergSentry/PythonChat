@@ -1,0 +1,66 @@
+<2019.03.02 18:15:20> <INFO> <app> Инициализация программы сервера: адрес '', порт '8888'
+<2019.03.02 18:15:20> <INFO> <listener> Ожидание подключения
+<2019.03.02 18:15:30> <INFO> <listener> Установлено подключение
+<2019.03.02 18:15:30> <INFO> <server> Подключен клиент: ('127.0.0.1', 53565) 
+<2019.03.02 18:15:30> <DEBUG> <connection> Прием: {"action": "presence", "time": 1551539730.1339195, "user": {"account_name": "99"}}
+<2019.03.02 18:15:30> <DEBUG> <connection> Передача: b'{"response": 200}'
+<2019.03.02 18:15:30> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\Python\Python37-32\lib\threading.py", line 885, in _bootstrap
+    self._bootstrap_inner()
+<2019.03.02 18:15:39> <INFO> <listener> Установлено подключение
+<2019.03.02 18:15:39> <DEBUG> <connection> Прием: {"action": "presence", "time": 1551539739.9708035, "user": {"account_name": "44"}}
+<2019.03.02 18:15:39> <INFO> <server> Подключен клиент: ('127.0.0.1', 53566) 
+<2019.03.02 18:15:39> <DEBUG> <connection> Передача: b'{"response": 200}'
+<2019.03.02 18:15:39> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\Python\Python37-32\lib\threading.py", line 885, in _bootstrap
+    self._bootstrap_inner()
+<2019.03.02 18:15:46> <INFO> <listener> Установлено подключение
+<2019.03.02 18:15:46> <DEBUG> <connection> Прием: {"action": "presence", "time": 1551539746.5550241, "user": {"account_name": "55"}}
+<2019.03.02 18:15:46> <INFO> <server> Подключен клиент: ('127.0.0.1', 53567) 
+<2019.03.02 18:15:46> <DEBUG> <connection> Передача: b'{"response": 200}'
+<2019.03.02 18:15:46> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\Python\Python37-32\lib\threading.py", line 885, in _bootstrap
+    self._bootstrap_inner()
+<2019.03.02 18:15:57> <DEBUG> <connection> Прием: {"action": "message", "time": 1551539757.4395711, "from": "55", "to": "#", "encoding": "UTF-8", "message": "333"}
+<2019.03.02 18:15:57> <DEBUG> <connection> Передача: b'{"action": "message", "time": 1551539757.4395711, "from": "55", "to": "#", "encoding": "UTF-8", "message": "333"}'
+<2019.03.02 18:15:57> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\Python\Python37-32\lib\threading.py", line 885, in _bootstrap
+    self._bootstrap_inner()
+<2019.03.02 18:15:57> <DEBUG> <connection> Передача: b'{"action": "message", "time": 1551539757.4395711, "from": "55", "to": "#", "encoding": "UTF-8", "message": "333"}'
+<2019.03.02 18:15:57> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\Python\Python37-32\lib\threading.py", line 885, in _bootstrap
+    self._bootstrap_inner()
+<2019.03.02 18:16:15> <DEBUG> <connection> Прием: {"action": "message", "time": 1551539775.158277, "from": "55", "to": "99", "encoding": "UTF-8", "message": "ccccccc"}
+<2019.03.02 18:16:15> <DEBUG> <connection> Передача: b'{"action": "message", "time": 1551539775.158277, "from": "55", "to": "99", "encoding": "UTF-8", "message": "ccccccc"}'
+<2019.03.02 18:16:15> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\Python\Python37-32\lib\threading.py", line 885, in _bootstrap
+    self._bootstrap_inner()
+<2019.03.02 18:17:00> <INFO> <listener> Установлено подключение
+<2019.03.02 18:17:00> <INFO> <server> Подключен клиент: ('127.0.0.1', 53573) 
+<2019.03.02 18:17:00> <DEBUG> <connection> Прием: {"action": "presence", "time": 1551539820.5007942, "user": {"account_name": "555555"}}
+<2019.03.02 18:17:00> <DEBUG> <connection> Передача: b'{"response": 200}'
+<2019.03.02 18:17:00> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\Python\Python37-32\lib\threading.py", line 885, in _bootstrap
+    self._bootstrap_inner()
+<2019.03.02 18:17:09> <DEBUG> <connection> Прием: {"action": "message", "time": 1551539829.3764577, "from": "555555", "to": "#", "encoding": "UTF-8", "message": "4444"}
+<2019.03.02 18:17:09> <ERROR> <connection> Ошибка передачи: <class 'OSError'>
+<2019.03.02 18:17:09> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\Python\Python37-32\lib\threading.py", line 885, in _bootstrap
+    self._bootstrap_inner()
+<2019.03.02 18:17:09> <ERROR> <connection> Ошибка передачи: <class 'OSError'>
+<2019.03.02 18:17:09> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\Python\Python37-32\lib\threading.py", line 885, in _bootstrap
+    self._bootstrap_inner()
+<2019.03.02 18:17:09> <ERROR> <connection> Ошибка передачи: <class 'OSError'>
+<2019.03.02 18:17:09> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\Python\Python37-32\lib\threading.py", line 885, in _bootstrap
+    self._bootstrap_inner()
+<2019.03.02 18:17:53> <INFO> <listener> Установлено подключение
+<2019.03.02 18:17:53> <INFO> <server> Подключен клиент: ('127.0.0.1', 53586) 
+<2019.03.02 18:17:53> <DEBUG> <connection> Прием: {"action": "presence", "time": 1551539873.0209904, "user": {"account_name": "eee"}}
+<2019.03.02 18:17:53> <DEBUG> <connection> Передача: b'{"response": 200}'
+<2019.03.02 18:17:53> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\Python\Python37-32\lib\threading.py", line 885, in _bootstrap
+    self._bootstrap_inner()
+<2019.03.02 18:18:01> <DEBUG> <connection> Прием: {"action": "message", "time": 1551539881.471979, "from": "eee", "to": "#", "encoding": "UTF-8", "message": "dddd"}
+<2019.03.02 18:18:01> <ERROR> <connection> Ошибка передачи: <class 'OSError'>
+<2019.03.02 18:18:01> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\Python\Python37-32\lib\threading.py", line 885, in _bootstrap
+    self._bootstrap_inner()
+<2019.03.02 18:18:01> <ERROR> <connection> Ошибка передачи: <class 'OSError'>
+<2019.03.02 18:18:01> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\Python\Python37-32\lib\threading.py", line 885, in _bootstrap
+    self._bootstrap_inner()
+<2019.03.02 18:18:01> <ERROR> <connection> Ошибка передачи: <class 'OSError'>
+<2019.03.02 18:18:01> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\Python\Python37-32\lib\threading.py", line 885, in _bootstrap
+    self._bootstrap_inner()
+<2019.03.02 18:18:01> <ERROR> <connection> Ошибка передачи: <class 'OSError'>
+<2019.03.02 18:18:01> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\Python\Python37-32\lib\threading.py", line 885, in _bootstrap
+    self._bootstrap_inner()

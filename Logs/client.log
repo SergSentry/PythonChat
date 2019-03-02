@@ -1,0 +1,8 @@
+<2019.03.02 18:17:51> <INFO> <app> Инициализация программы клиента: адрес 'localhost', порт '8888'
+<2019.03.02 18:17:53> <DEBUG> <connection> Передача: b'{"action": "presence", "time": 1551539873.0209904, "user": {"account_name": "eee"}}'
+<2019.03.02 18:17:53> <DEBUG> <connection> Прием: {"response": 200}
+<2019.03.02 18:17:53> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\JetBrains\PyCharm Community Edition 2018.3.4\helpers\pydev\pydevd.py", line 1741, in <module>
+    main()
+<2019.03.02 18:18:01> <DEBUG> <connection> Передача: b'{"action": "message", "time": 1551539881.471979, "from": "eee", "to": "#", "encoding": "UTF-8", "message": "dddd"}'
+<2019.03.02 18:18:01> <INFO> <FUNC> Метод/функция "send" вызван/а из File "D:\Program Files\JetBrains\PyCharm Community Edition 2018.3.4\helpers\pydev\pydevd.py", line 1741, in <module>
+    main()
